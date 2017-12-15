@@ -1,0 +1,25 @@
+def create_dict(filename):
+    file = open(filename, 'r')
+    
+    user_input = input("Please enter a train line, or 'done' to stop: ")
+    if user_input == "done":
+        return ''
+    else:
+        dictionary = {}
+        file.readline()
+        for line in file:
+            new_line = line.split(",")
+            for x in new_line:
+                if new_line[0][0] in dictionary:
+                    if new_line[2] not in dictionary[x[0]]:
+                        dictionary[x[0]] = [new_line[2]]
+        
+    print(user_input, "line: ", dictionary[str(user_input)])
+    
+    return dictionary
+          
+def main():
+    create_dict('hw9 - mta train stop data.csv')
+    
+    
+main()

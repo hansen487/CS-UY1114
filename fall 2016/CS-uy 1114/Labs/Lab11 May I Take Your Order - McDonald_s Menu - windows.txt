@@ -1,0 +1,133 @@
+Big Mac: $3.99
+Big Mac - Meal: $5.99
+2 Cheeseburgers: $2.00
+2 Cheeseburgers - Meal: $4.89
+Quarter Pounder with Cheese: $3.79
+Quarter Pounder with Cheese - Meal: $5.79
+Double Quarter Pounder with Cheese: $4.79
+Double Quarter Pounder with Cheese - Meal: $6.69
+Bacon Clubhouse Burger: $4.49
+Bacon Clubhouse Burger - Meal: $6.49
+Buttermilk Crispy Chicken: $4.39
+Buttermilk Crispy Chicken - Meal: $6.39
+Artisan Grilled Chicken: $4.39
+Artisan Grilled Chicken - Meal: $6.39
+Premium McWrap Chicken & Bacon: $4.39
+Premium McWrap Chicken & Bacon - Meal: $6.39
+Premium McWrap Chicken & Ranch: $4.39
+Premium McWrap Chicken & Ranch - Meal: $6.39
+Premium McWrap Sweet Chili Chicken: $4.39
+Premium McWrap Sweet Chili Chicken - Meal: $6.39
+Filet-O-Fish: $3.79
+Filet-O-Fish - Meal: $5.79
+Double Filet-O-Fish: $4.79
+Double Filet-O-Fish - Meal: $6.79
+Premium Chicken Bacon Clubhouse: $4.49
+Premium Chicken Bacon Clubhouse - Meal: $6.49
+BBQ Pulled Pork Sandwich: $2.99
+BBQ Pulled Pork Sandwich - Meal: $4.99
+Chicken McNuggets 4 Pc.: $1.99
+Chicken McNuggets 10 Pc.: $4.49
+Chicken McNuggets 10 Pc. - Meal: $6.49
+Chicken McNuggets 20 Pc.: $5.00
+Chicken McNuggets 20 Pc. - Meal: $9.99
+Chicken McNuggets 40 Pc.: $8.99
+Grilled or Crispy Chicken Southwest Salad: $4.79
+Bacon Ranch Salad: $4.59
+Chicken Ranch Snack Wrap: $1.69
+Small French Fries: $1.39
+Medium French Fries: $1.69
+Large French Fries: $1.89
+Grilled Onion Cheddar Burger: $1.00
+McDouble: $1.39
+McChicken: $1.29
+BBQ Ranch Burger: $1.00
+Cheeseburger: $1.00
+Double Cheeseburger: $1.69
+Daily Double: $1.99
+Bacon McDouble: $2.00
+Parfait: $1.00
+Side Salad: $1.59
+3 Cookies: $1.00
+Apple Slices 2 Bags: $1.00
+Sausage Burrito: $1.19
+Sausage McMuffin: $1.19
+Sausage Biscuit: $1.19
+Hash Browns: $1.00
+Small Coffee: $0.90
+Egg & Cheese Biscuit: $1.39
+Cinnamon Melt: $1.59
+Small Smoothie: $2.39
+Medium Smoothie: $2.89
+Large Smoothie: $3.39
+Small Frappe: $2.39
+Medium Frappe: $2.89
+Large Frappe: $3.39
+Small Espresso & Chocolate: $2.39
+Medium Espresso & Chocolate: $2.89
+Large Espresso & Chocolate: $3.39
+Small Premium Roast Coffee: $0.90
+Medium Premium Roast Coffee: $1.29
+Large Premium Roast Coffee: $1.49
+Small Iced Coffee: $1.39
+Medium Iced Coffee: $1.79
+Large Iced Coffee: $1.99
+Small Sweet Tea: $1.00
+Medium Sweet Tea: $1.29
+Large Sweet Tea: $1.49
+Small Soft Drink: $1.00
+Medium Soft Drink: $1.29
+Large Soft Drink: $1.49
+Small Orange Juice: $1.59
+Medium Orange Juice: $1.89
+Large Orange Juice: $2.09
+Milk: $1.00
+Dasani Water Bottle: $1.00
+Small Shake: $2.19
+Medium Shake: $2.59
+Large Shake: $2.99
+Small Shamrock Shake: $2.19
+Medium Shamrock Shake: $2.59
+Large Shamrock Shake: $2.99
+Sundae: $1.29
+Apple Pie: $0.99
+Vanilla Cone: $1.00
+McFlurry Snack: $1.79
+McFlurry Regular: $2.39
+Soft Baked Chocolate Chip Cookie 1 Pc.: $0.39
+Soft Baked Chocolate Chip Cookie 3 Pc.: $1.00
+Strawberry & Creme Pie: $0.99
+Chicken McNuggets 4 Pc. - Happy Meal: $3.29
+Hamburger - Happy Meal: $2.49
+Cheeseburger - Happy Meal: $2.69
+Chicken McNuggets 6 Pc. - Mighty Kids Meal: $3.99
+Egg White Delight McMuffin: $2.79
+Egg White Delight McMuffin - Meal: $3.99
+Egg McMuffin: $2.79
+Egg McMuffin - Meal: $3.99
+Sausage McMuffin with Egg: $2.99
+Sausage McMuffin with Egg - Meal: $4.19
+Bacon, Egg & Cheese Biscuit: $3.19
+Bacon, Egg & Cheese Biscuit - Meal: $4.39
+Sausage Biscuit with Egg: $2.79
+Sausage Biscuit with Egg - Meal: $3.99
+Sausage Gravy & Biscuit: $2.89
+Sausage Gravy & Biscuit - Meal: $4.89
+Bacon, Egg & Cheese McGriddles: $3.29
+Bacon, Egg & Cheese McGriddles - Meal: $4.49
+Sausage, Egg & Cheese McGriddles: $3.29
+Sausage, Egg & Cheese McGriddles - Meal: $4.49
+Sausage McGriddles: $2.79
+Sausage McGriddles - Meal: $4.49
+Bacon, Egg & Cheese Bagel: $3.29
+Bacon, Egg & Cheese Bagel - Meal: $4.99
+Steak, Egg & Cheese Bagel: $3.99
+Steak, Egg & Cheese Bagel - Meal: $5.19
+2 Sausage Burritos: $2.39
+2 Sausage Burritos - Meal: $3.99
+Big Breakfast with Hot Cakes: $4.59
+Big Breakfast: $3.69
+Sausage Gravy & Biscuit: $2.89
+3 Hot Cakes with Sausage: $3.39
+3 Hot Cakes: $2.39
+Fruit & Maple Oatmeal: $1.99
